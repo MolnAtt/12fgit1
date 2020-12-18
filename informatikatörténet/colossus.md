@@ -5,4 +5,3 @@ A Colossus egy a második világháborús kódfejtők által épített számít�
 A számlálási és logikai műveletekhez elektroncsöveket használtak.
 Memóriája lyukszalaggal történt.
 Bár ezt tekintik az első programozható elektronikus számítógépnek, a programozása még nem tárolt programmal, hanem átkötésekkel és kapcsolókkal történt. 
-uwu
